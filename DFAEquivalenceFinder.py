@@ -78,4 +78,4 @@ for i, (nStates, alphabet, finalStates, transitions) in enumerate(DFAs):
         for pair in equivalents:
             print(pair)
     else:
-        print("No equivalent states.")
+        print("No equivalent states.")   
